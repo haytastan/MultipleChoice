@@ -1,3 +1,4 @@
+// Hayati TASTAN, Nob 14, 2020
 import java.util.Scanner;
 
 public class MultipleChoice {
